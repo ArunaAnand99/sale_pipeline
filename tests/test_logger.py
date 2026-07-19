@@ -1,6 +1,6 @@
 
-import sys
-sys.path.append('/Users/aruna/Desktop/sales_pipeline')
+# import sys
+# sys.path.append('/Users/aruna/Desktop/sales_pipeline')
 
 from src.utils.logger import PipelineLogger
 
