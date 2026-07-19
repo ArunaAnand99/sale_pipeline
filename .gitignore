@@ -1,0 +1,33 @@
+#Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+#Virtual Environment
+venv/
+env/
+.env
+
+#Data files
+data/raw/*
+data/processed/*
+*.csv
+*.parquet
+
+#Logs
+logs/*
+
+#IDE
+.idea/
+.vscode/
+*.swp
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Mac
+.DS_Store
